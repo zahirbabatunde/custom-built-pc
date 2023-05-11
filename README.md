@@ -13,4 +13,8 @@ This repository contains information about the custom PC that I assembled myself
 - **Case**: NZXT H510 - Compact ATX Mid-Tower PC
 
 ## Images
+![Alt text](https://github.com/zahirbabatunde/custom-built-pc/blob/main/20200307_010115.jpg)
+![Alt text](https://github.com/zahirbabatunde/custom-built-pc/blob/main/20200302_105458.jpg)
+![Alt text](https://github.com/zahirbabatunde/custom-built-pc/blob/main/20200901_225901.jpg)
+![Alt text](https://github.com/zahirbabatunde/custom-built-pc/blob/main/20200901_225926.jpg)
 ![Alt text](https://github.com/zahirbabatunde/custom-built-pc/blob/main/20200302_105451.jpg)
